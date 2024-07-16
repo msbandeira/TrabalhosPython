@@ -5,8 +5,8 @@ from plyer import notification
 
 # URLs dos sites que você quer monitorar
 urls = [
-    "https://jobs.i-hunter.com/firjan/oportunidades",
-    "https://jobs.i-hunter.com/senacrj/"
+    "https://exemplo.com.br",
+    "https://exemplo2.com.br"
 ]
 
 # Função para obter o conteúdo do site
